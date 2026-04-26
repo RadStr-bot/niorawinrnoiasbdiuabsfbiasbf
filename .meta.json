@@ -1,0 +1,23 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/57710ebc-b243-4877-a59e-989eebfc5b83",
+  "projectIri": "dd2ace17-ec01-412b-9a66-c60efcb55697",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Data Specification Vocabulary (DSV)"
+    },
+    "description": {
+      "en": "This specification defines terms needed to describe application profiles,"
+    },
+    "importedFromUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/",
+    "documentBaseUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/"
+  },
+  "metadata": {
+    "creationDate": "2026-04-26T18:22:11.008Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
